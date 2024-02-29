@@ -9,6 +9,6 @@ Features：
 
 相关技术栈选项：
 * Blazor WebAssembly
-* Nuxt/Next
+* Next(React)
 * Tailwindcss
 * WebView2
